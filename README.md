@@ -8,4 +8,4 @@ This is 2nd Year CS undergrad at Indian Institute of Information Technology Vado
 [![Hari om's github stats](https://github-readme-stats.vercel.app/api?username=Hariom868&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harion868&hide=CSS&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom868)](https://github.com/anuraghazra/github-readme-stats)
