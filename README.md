@@ -9,3 +9,5 @@ This is 2nd Year CS undergrad at Indian Institute of Information Technology Vado
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom868)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hariom868)](https://github.com/anuraghazra/github-readme-stats)
