@@ -1,6 +1,5 @@
 # MY STATS
 2nd Year CS undergrad at Indian Institute of Information Technology Vadodara. 
-
 - 🔭 I’m currently working on **React and flutter** 
 - 🌱 I’m currently learning **Data Visualization and Analysis, Backend**
 
