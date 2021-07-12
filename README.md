@@ -2,7 +2,7 @@
 2nd Year CS undergrad at Indian Institute of Information Technology Vadodara. 
 - 🔭 I’m currently working on **PHP and Android development** 
 - 👯 I’m looking to collaborate on Web and Android Projects
-- 🌱 I’m currently learning **Data Visualization and Analysis, JAVASCRIPT**
+- 🌱 I’m currently learning **Data Analysis, JAVASCRIPT**
 - 🌱 I’m Looking for help in learning **DP and Graph**
 - ⚡ Fun fact: I invest 2 hrs daily on movies/web-series.
 
